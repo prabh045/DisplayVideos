@@ -1,0 +1,6 @@
+framework module Pods_DisplayVideosTests {
+  umbrella header "Pods-DisplayVideosTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
